@@ -1,7 +1,6 @@
 # AESMorph
-Ransomware Project
 
-Este repositorio contiene dos versiones de un ransomware con funcionalidades avanzadas:
+Este repositorio contiene dos versiones de un ransomware que funcionan como estructura base.
 
 ---
 
