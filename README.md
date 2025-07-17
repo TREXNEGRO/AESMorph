@@ -19,7 +19,7 @@ cl ransomware.cpp /link ntdll.lib bcrypt.lib psapi.lib
 
 2. Versión Go
 
-- Persistencia avanzada copiándose a %APPDATA% y añadiéndose al registro de inicio.
+- Persistencia copiándose a %APPDATA% y añadiéndose al registro de inicio.
 - Anti-debugging avanzado con múltiples técnicas:
   - IsDebuggerPresent
   - NtQueryInformationProcess
