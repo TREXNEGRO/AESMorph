@@ -25,7 +25,7 @@ cl ransomware.cpp /link ntdll.lib bcrypt.lib psapi.lib
   - NtQueryInformationProcess
   - CheckRemoteDebuggerPresent
   - Comprobación de timing para detectar trampas de Sleep
-- Auto-mutación avanzada en memoria, mutando cadenas ASCII para ofuscación.
+- Auto-mutación en memoria, mutando cadenas ASCII para ofuscación.
 - Encriptación AES-CBC con padding PKCS7 para archivos objetivo.
 - Detección simple de máquinas virtuales basada en CPUs y RAM.
 
